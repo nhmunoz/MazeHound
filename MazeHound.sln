@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeHound", "MazeHound\MazeHound.csproj", "{51B36690-7726-4CDB-98F0-D94D89B1D75F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeHound.Business", "MazeHound.Business\MazeHound.Business.csproj", "{AEAB82B0-EE5A-4B3D-971C-975C0030700C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeHound.Test", "MazeHound.Test\MazeHound.Test.csproj", "{6994F06D-75C6-4698-B5EA-B2670C1B2450}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{51B36690-7726-4CDB-98F0-D94D89B1D75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51B36690-7726-4CDB-98F0-D94D89B1D75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51B36690-7726-4CDB-98F0-D94D89B1D75F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEAB82B0-EE5A-4B3D-971C-975C0030700C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAB82B0-EE5A-4B3D-971C-975C0030700C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAB82B0-EE5A-4B3D-971C-975C0030700C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAB82B0-EE5A-4B3D-971C-975C0030700C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6994F06D-75C6-4698-B5EA-B2670C1B2450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6994F06D-75C6-4698-B5EA-B2670C1B2450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6994F06D-75C6-4698-B5EA-B2670C1B2450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6994F06D-75C6-4698-B5EA-B2670C1B2450}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
